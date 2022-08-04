@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Первая программа Hello, World!");
